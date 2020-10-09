@@ -22,11 +22,11 @@ Book =>[     ]( ) <br>
 
 ### EDA
 
------1----- <br>
+1-----**Airbnb verileri ile Ev Fiyat Analizi** <br>
 Article =>[Exploratory Data Analysis on Airbnb Properties in London](https://medium.com/analytics-vidhya/exploratory-data-analysis-on-airbnb-properties-in-london-39eb80da6d15) <br>
 Github  => [EDA-Airbnb-London](https://github.com/yalinyener/EDA-Airbnb-London)
 <br>
------2----- <br>
+2-----**Mobil Uygulama Pazar Analizi** <br>
 Yazı =>[App Store’da Ne Tarz Ücretli Bir Uygulama Geliştirilebilir?](https://medium.com/@foreverflash95/eda-app-storeda-ne-tarz-%C3%BCcretli-bir-uygulama-geli%C5%9Ftirilebilir-363cb0fa83a4) <br>
 Article =>[What kind of paid application should a developer develop for the App Store?](https://medium.com/@foreverflash95/eda-project-what-kind-of-paid-application-should-a-developer-develop-for-the-app-store-c98fcbc8111f) <br>
 Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA)
@@ -63,7 +63,7 @@ A. Clustering Algorithms
 ```
 
 ## 2)NATURAL PROCESSING LANGUAGE
------1----- <br>
+1----- <br>
 Article =>[Classification & Recommendation with arxiv data](https://towardsdatascience.com/nlp-classification-recommendation-project-cae5623ccaae) <br>
 Github =>[NLP-Classification-Recommendation with arxiv data](https://github.com/alpercakr/NLP-Classification-Recommendation-Project) <br>
 ## 3)SQL
