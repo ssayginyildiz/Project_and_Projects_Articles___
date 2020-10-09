@@ -17,7 +17,7 @@ Article =>[What kind of paid application should a developer develop for the App 
 Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA)
 <br>
 
-### a.Supervised Learning
+### a.SUPERVISED LEARNING
 
 #### a.1 Predict/Regression Algorithms
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
@@ -26,7 +26,7 @@ Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <b
 #### a.2 Classification Algorithms
 
 
-### b.Unsupervised Learning
+### b.UNSUPERVISED LEARNING
 
 #### a.2 Clustering Algorithms
 
