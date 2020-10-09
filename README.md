@@ -1,7 +1,7 @@
 # Significant DS_ML_NLP+++ Project, Video and Article Links
-Yazı =>[     ](  ) <br>
-Article =>[     ](  ) <br>
-Github =>[     ](  ) <br>
+Yazı =>[     ]( ) <br>
+Article =>[     ]( ) <br>
+Github =>[     ]( ) <br>
 
 
 ## DATA SCIENCE & MACHINE LEARNING
@@ -16,6 +16,12 @@ Yazı =>[App Store’da Ne Tarz Ücretli Bir Uygulama Geliştirilebilir?](https:
 Article =>[What kind of paid application should a developer develop for the App Store?](https://medium.com/@foreverflash95/eda-project-what-kind-of-paid-application-should-a-developer-develop-for-the-app-store-c98fcbc8111f) <br>
 Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA)
 <br>
+
+### a.Supervised Learning
+
+#### a.a Predict/Regression Algorithms
+Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
+Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
 
 
 ## NATURAL PROCESSING LANGUAGE
