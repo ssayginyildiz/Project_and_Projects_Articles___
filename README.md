@@ -58,3 +58,6 @@ Article =>[Github Türkçe Markdown Rehberi](https://medium.com/deep-learning-tu
 
 ## 5)DATA ENGINEER
 Yazı =>[Data Engineer Serüveni 1](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) <br>
+[2,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821)
+[3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821)
+[4](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821)
