@@ -42,7 +42,8 @@ Yazı =>[Makine Öğrenmesinde Python ile Basit Doğrusal Regresyon Modelinin Ku
 Github  => [Doğrusal Regresyon](https://github.com/yigitsener/machine-learning/tree/master/regression)
 <br>
 -----_destek yazılar_-----
-Yazı =>[Doğrusal Regresyon Algoritmasının Mantığı ve Uygulanmas](https://medium.com/batech/do%C4%9Frusal-regresyon-algoritmas%C4%B1n%C4%B1n-mant%C4%B1%C4%9F%C4%B1-ve-uygulanmas%C4%B1-e65a86f806fd) <br>
+<br>
+Yazı =>[Doğrusal Regresyon Algoritmasının Mantığı ve Uygulanması](https://medium.com/batech/do%C4%9Frusal-regresyon-algoritmas%C4%B1n%C4%B1n-mant%C4%B1%C4%9F%C4%B1-ve-uygulanmas%C4%B1-e65a86f806fd) <br>
 
 2----- **Ethereum Hacim Tahmin** <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
