@@ -1,10 +1,10 @@
 # Significant DS_ML_NLP+++ Project, Video and Article Links
 ```diff
-- text 
-+ text 
-! text 
-# text 
-@@ text 
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ```
   <br>
 Yazı =>[     ]( ) <br>
@@ -14,8 +14,9 @@ Github =>[     ]( ) <br>
 
 ## DATA SCIENCE & MACHINE LEARNING
 
-### ```diff
-- text 
+
+```diff
+- EDA 
 ```
 -----1----- <br>
 Article =>[Exploratory Data Analysis on Airbnb Properties in London](https://medium.com/analytics-vidhya/exploratory-data-analysis-on-airbnb-properties-in-london-39eb80da6d15) <br>
