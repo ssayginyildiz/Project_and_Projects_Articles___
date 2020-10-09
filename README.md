@@ -44,7 +44,8 @@ A. Clustering Algorithms
 ```
 
 ## 2)NATURAL PROCESSING LANGUAGE
-
+Article =>[Classification & Recommendation Project](https://towardsdatascience.com/nlp-classification-recommendation-project-cae5623ccaae) <br>
+Github =>[NLP-Classification-Recommendation-Project](https://github.com/alpercakr/NLP-Classification-Recommendation-Project) <br>
 ## 3)SQL
 Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyoruz/sql-sorgular%C4%B1n%C4%B1n-pandas-kar%C5%9F%C4%B1l%C4%B1klar%C4%B1-a6b5cf771dbe) <br>
 
