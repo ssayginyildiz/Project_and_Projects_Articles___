@@ -1,4 +1,4 @@
-# Significant DS_ML_NLP+++ Project, Video and Article Links
+# Significant DS_ML_NLP+++ Project, Video, Book and Article Links
 ```diff
 - text in red
 + text in green
@@ -10,6 +10,8 @@
 Yazı =>[     ]( ) <br>
 Article =>[     ]( ) <br>
 Github =>[     ]( ) <br>
+Video =>[     ]( ) <br>
+Book =>[     ]( ) <br>
 
 
 ## 1)DATA SCIENCE & MACHINE LEARNING
