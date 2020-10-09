@@ -36,8 +36,12 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 ```diff
 A. Predict/Regression Algorithms
 ```
------1----- **Ethereum Hacim Tahmin** <br>
+#### 1.Linear Regression
+Yazı =>[Makine Öğrenmesinde Python ile Basit Doğrusal Regresyon Modelinin Kurulması ve Yorumlanması](https://medium.com/@yigitsener/makine-%C3%B6%C4%9Frenmesinde-python-ile-basit-do%C4%9Frusal-regresyon-modelinin-kurulmas%C4%B1-ve-yorumlanmas%C4%B1-4cf918e1adf) <br>
+Github  => [Doğrusal Regresyon](https://github.com/yigitsener/machine-learning/tree/master/regression)
 
+
+-----1----- **Ethereum Hacim Tahmin** <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
 -----2----- **Araba Fiyat Tahmin** <br>
