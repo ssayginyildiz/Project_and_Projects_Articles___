@@ -28,20 +28,20 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 
 
 ```diff
-a.SUPERVISED LEARNING
+SUPERVISED LEARNING
 ```
-### a.1 Predict/Regression Algorithms
+### a. Predict/Regression Algorithms
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
 
-### a.2 Classification Algorithms
+### b. Classification Algorithms
 
 
 ```diff
-b.UNSUPERVISED LEARNING
+UNSUPERVISED LEARNING
 ```
 
-### a.2 Clustering Algorithms
+### a. Clustering Algorithms
 
 
 ## NATURAL PROCESSING LANGUAGE
