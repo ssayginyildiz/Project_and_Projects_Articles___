@@ -1,5 +1,11 @@
 # Significant DS_ML_NLP+++ Project, Video and Article Links
-<font color="blue"> Some green text </font>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
   <br>
 Yazı =>[     ]( ) <br>
 Article =>[     ]( ) <br>
