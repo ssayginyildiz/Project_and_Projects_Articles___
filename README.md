@@ -3,7 +3,7 @@
 ## DATA SCIENCE & MACHINE LEARNING
 
 ### 1.EDA
-Article => https://medium.com/analytics-vidhya/exploratory-data-analysis-on-airbnb-properties-in-london-39eb80da6d15 \n
+Article => https://medium.com/analytics-vidhya/exploratory-data-analysis-on-airbnb-properties-in-london-39eb80da6d15 <br>
 Github  => https://github.com/yalinyener/EDA-Airbnb-London
 
 ## NATURAL PROCESSING LANGUAGE
