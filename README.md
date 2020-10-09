@@ -1,4 +1,7 @@
 # Significant DS_ML_NLP+++ Project, Video and Article Links
+Article =>[     ](  ) <br>
+Github =>[     ](  ) <br>
+Yazı =>[     ](  ) <br>
 
 ## DATA SCIENCE & MACHINE LEARNING
 
@@ -19,3 +22,6 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 ## EKSTRA
 -----GİTHUB----- <br>
 Article =>[Github Türkçe Markdown Rehberi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96) <br>
+
+## SQL
+Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyoruz/sql-sorgular%C4%B1n%C4%B1n-pandas-kar%C5%9F%C4%B1l%C4%B1klar%C4%B1-a6b5cf771dbe) <br>
