@@ -34,11 +34,11 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 A. Predict/Regression Algorithms
 ```
 -----1----- <br>
-**Ethereum Hacim Tahmin**
+**Ethereum Hacim Tahmin** <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
 -----2----- <br>
-**Araba Fiyat Tahmin**
+**Araba Fiyat Tahmin** <br>
 Yazı =>[Web Scraping — Regresyon Projesi : İkinci El Araç Fiyatı Tahminlemesi](https://medium.com/@mervehoroz14/web-scraping-regresyon-projesi-i%CC%87kinci-el-ara%C3%A7-fiyat%C4%B1-tahminlemesi-2d6706500572) <br>
 Github =>[Web Kazıma](https://github.com/MerveHoroz/BeautifulSoup-WebScraping) <br>
 Github =>[Regresyon](https://github.com/MerveHoroz/RegressionProject-PredictingUsedCarPrice) <br>
