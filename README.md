@@ -37,7 +37,7 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 A. Predict/Regression Algorithms
 ```
 #### 1.Linear Regression
-1----- **Giriş**=>Doğrusal Regresyon<br>
+1----- **Giriş**=>Yaş Tahmini(Doğrusal Regresyon)<br>
 Yazı =>[Makine Öğrenmesinde Python ile Basit Doğrusal Regresyon Modelinin Kurulması ve Yorumlanması](https://medium.com/@yigitsener/makine-%C3%B6%C4%9Frenmesinde-python-ile-basit-do%C4%9Frusal-regresyon-modelinin-kurulmas%C4%B1-ve-yorumlanmas%C4%B1-4cf918e1adf) <br>
 Github  => [Doğrusal Regresyon](https://github.com/yigitsener/machine-learning/tree/master/regression)
 <br>
