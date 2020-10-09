@@ -36,6 +36,10 @@ A. Predict/Regression Algorithms
 -----1----- <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
+-----2----- <br>
+Yazı =>[Web Scraping — Regresyon Projesi : İkinci El Araç Fiyatı Tahminlemesi](https://medium.com/@mervehoroz14/web-scraping-regresyon-projesi-i%CC%87kinci-el-ara%C3%A7-fiyat%C4%B1-tahminlemesi-2d6706500572) <br>
+Yazı =>[BeautifulSoup ile Web Scraping ve Machine Learning](https://medium.com/@snnderya/beautifulsoup-ile-web-scraping-ve-machine-learning-6cc98defb2dc) <br>
+Yazı =>[Veri Bilimi Serüveni 3](https://medium.com/@yunusyarba/veri-bilimi-ser%C3%BCveni-3-187fe19c3fcd) <br>
 ```diff
 B. Classification Algorithms
 ```
