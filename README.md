@@ -15,6 +15,7 @@ Github =>[     ]( ) <br>
 ## DATA SCIENCE & MACHINE LEARNING
 
 
+### EDA
 
 -----1----- <br>
 Article =>[Exploratory Data Analysis on Airbnb Properties in London](https://medium.com/analytics-vidhya/exploratory-data-analysis-on-airbnb-properties-in-london-39eb80da6d15) <br>
