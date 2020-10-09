@@ -15,9 +15,7 @@ Github =>[     ]( ) <br>
 ## DATA SCIENCE & MACHINE LEARNING
 
 
-```diff
-- EDA 
-```
+
 -----1----- <br>
 Article =>[Exploratory Data Analysis on Airbnb Properties in London](https://medium.com/analytics-vidhya/exploratory-data-analysis-on-airbnb-properties-in-london-39eb80da6d15) <br>
 Github  => [EDA-Airbnb-London](https://github.com/yalinyener/EDA-Airbnb-London)
@@ -28,18 +26,22 @@ Article =>[What kind of paid application should a developer develop for the App 
 Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA)
 <br>
 
-### a.SUPERVISED LEARNING
 
-#### a.1 Predict/Regression Algorithms
+```diff
+a.SUPERVISED LEARNING
+```
+### a.1 Predict/Regression Algorithms
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
 
-#### a.2 Classification Algorithms
+### a.2 Classification Algorithms
 
 
-### b.UNSUPERVISED LEARNING
+```diff
+b.UNSUPERVISED LEARNING
+```
 
-#### a.2 Clustering Algorithms
+### a.2 Clustering Algorithms
 
 
 ## NATURAL PROCESSING LANGUAGE
