@@ -41,6 +41,8 @@ A. Predict/Regression Algorithms
 Yazı =>[Makine Öğrenmesinde Python ile Basit Doğrusal Regresyon Modelinin Kurulması ve Yorumlanması](https://medium.com/@yigitsener/makine-%C3%B6%C4%9Frenmesinde-python-ile-basit-do%C4%9Frusal-regresyon-modelinin-kurulmas%C4%B1-ve-yorumlanmas%C4%B1-4cf918e1adf) <br>
 Github  => [Doğrusal Regresyon](https://github.com/yigitsener/machine-learning/tree/master/regression)
 <br>
+-----_destek yazılar_-----
+Yazı =>[Doğrusal Regresyon Algoritmasının Mantığı ve Uygulanmas](https://medium.com/batech/do%C4%9Frusal-regresyon-algoritmas%C4%B1n%C4%B1n-mant%C4%B1%C4%9F%C4%B1-ve-uygulanmas%C4%B1-e65a86f806fd) <br>
 
 2----- **Ethereum Hacim Tahmin** <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
@@ -50,7 +52,7 @@ Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <b
 Yazı =>[Web Scraping — Regresyon Projesi : İkinci El Araç Fiyatı Tahminlemesi](https://medium.com/@mervehoroz14/web-scraping-regresyon-projesi-i%CC%87kinci-el-ara%C3%A7-fiyat%C4%B1-tahminlemesi-2d6706500572) <br>
 Github =>[Web Kazıma](https://github.com/MerveHoroz/BeautifulSoup-WebScraping) <br>
 Github =>[Regresyon](https://github.com/MerveHoroz/RegressionProject-PredictingUsedCarPrice) <br>
-_destek yazılar_ <br>
+-----_destek yazılar_----- <br>
 Yazı =>[BeautifulSoup ile Web Scraping ve Machine Learning](https://medium.com/@snnderya/beautifulsoup-ile-web-scraping-ve-machine-learning-6cc98defb2dc) <br>
 Yazı =>[Veri Bilimi Serüveni 3](https://medium.com/@yunusyarba/veri-bilimi-ser%C3%BCveni-3-187fe19c3fcd) <br>
 ```diff
