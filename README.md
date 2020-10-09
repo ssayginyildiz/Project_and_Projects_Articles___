@@ -31,7 +31,7 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 ```diff
 A. Predict/Regression Algorithms
 ```
-
+-----1----- <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
 ```diff
@@ -44,6 +44,7 @@ A. Clustering Algorithms
 ```
 
 ## 2)NATURAL PROCESSING LANGUAGE
+-----1----- <br>
 Article =>[Classification & Recommendation Project](https://towardsdatascience.com/nlp-classification-recommendation-project-cae5623ccaae) <br>
 Github =>[NLP-Classification-Recommendation-Project](https://github.com/alpercakr/NLP-Classification-Recommendation-Project) <br>
 ## 3)SQL
