@@ -37,16 +37,16 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 A. Predict/Regression Algorithms
 ```
 #### 1.Linear Regression
------1----- **Giriş**=>Doğrusal Regresyon<br>
+1----- **Giriş**=>Doğrusal Regresyon<br>
 Yazı =>[Makine Öğrenmesinde Python ile Basit Doğrusal Regresyon Modelinin Kurulması ve Yorumlanması](https://medium.com/@yigitsener/makine-%C3%B6%C4%9Frenmesinde-python-ile-basit-do%C4%9Frusal-regresyon-modelinin-kurulmas%C4%B1-ve-yorumlanmas%C4%B1-4cf918e1adf) <br>
 Github  => [Doğrusal Regresyon](https://github.com/yigitsener/machine-learning/tree/master/regression)
 <br>
 
------2----- **Ethereum Hacim Tahmin** <br>
+2----- **Ethereum Hacim Tahmin** <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
 
------3----- **Araba Fiyat Tahmin** <br>
+3----- **Araba Fiyat Tahmin** <br>
 Yazı =>[Web Scraping — Regresyon Projesi : İkinci El Araç Fiyatı Tahminlemesi](https://medium.com/@mervehoroz14/web-scraping-regresyon-projesi-i%CC%87kinci-el-ara%C3%A7-fiyat%C4%B1-tahminlemesi-2d6706500572) <br>
 Github =>[Web Kazıma](https://github.com/MerveHoroz/BeautifulSoup-WebScraping) <br>
 Github =>[Regresyon](https://github.com/MerveHoroz/RegressionProject-PredictingUsedCarPrice) <br>
