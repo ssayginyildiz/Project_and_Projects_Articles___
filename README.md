@@ -1,5 +1,6 @@
 # Significant DS_ML_NLP+++ Project, Video and Article Links
-<span style="color: blue"> Some green text </span> <br>
+<font color="blue"> Some green text </font>
+  <br>
 Yazı =>[     ]( ) <br>
 Article =>[     ]( ) <br>
 Github =>[     ]( ) <br>
