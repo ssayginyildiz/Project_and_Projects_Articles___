@@ -74,7 +74,11 @@ Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyor
 
 ## 4)EKSTRA
 -----GİTHUB----- <br>
-Article =>[Github Türkçe Markdown Rehberi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96) <br>
+Yazı =>[Github Türkçe Markdown Rehberi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96) <br>
+-----OKUNASI----- <br>
+Yazı =>[Veri Bilimi'nde daha ileri gitmek için...](https://blog.cobanov.xyz/ihtiyaclar-listesi) <br>
+
+
 
 ## 5)DATA ENGINEER
 Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
