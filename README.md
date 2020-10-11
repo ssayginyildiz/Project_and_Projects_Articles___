@@ -31,7 +31,10 @@ Yazı =>[App Store’da Ne Tarz Ücretli Bir Uygulama Geliştirilebilir?](https:
 Article =>[What kind of paid application should a developer develop for the App Store?](https://medium.com/@foreverflash95/eda-project-what-kind-of-paid-application-should-a-developer-develop-for-the-app-store-c98fcbc8111f) <br>
 Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA)
 <br>
-
+3-----**Corona 2019 Analizi** <br>
+Article =>[n-Corona Virus 2019 Data Analyse ](https://medium.com/@parlak.deniss/n-corona-virus-2019-data-analyse-eda-1a3d470ca5f8) <br>
+Github  => [Corono Analyse](https://github.com/denizparlak1/datascience-project/tree/master/project-1)
+<br>
 ### SUPERVISED LEARNING
 ```diff
 A. Predict/Regression Algorithms
