@@ -68,7 +68,7 @@ A. Clustering Algorithms
 ```
 
 ## 2)NATURAL PROCESSING LANGUAGE
-1----- <br>
+1-----**Arşiv Datasının Sınıflandırılması** <br>
 Article =>[Classification & Recommendation with arxiv data](https://towardsdatascience.com/nlp-classification-recommendation-project-cae5623ccaae) <br>
 Github =>[NLP-Classification-Recommendation with arxiv data](https://github.com/alpercakr/NLP-Classification-Recommendation-Project) <br>
 ## 3)SQL
