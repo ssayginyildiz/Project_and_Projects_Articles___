@@ -82,7 +82,7 @@ Yazı =>[Veri Bilimi'nde daha ileri gitmek için...](https://blog.cobanov.xyz/ih
 
 
 
-## 5)DATA ENGINEER
+## 5)DATA ENGINEERING
 Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
 [2,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-2-39cc97cf8e60)
 [3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-3-438b4e51acd3)
