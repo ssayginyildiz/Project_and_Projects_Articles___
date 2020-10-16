@@ -34,6 +34,9 @@ Github  => [AppleAppStore_EDA](https://github.com/aybukemeydan/AppleAppStore_EDA
 Article =>[Exploratory Data Analysis on Airbnb Properties in London](https://medium.com/analytics-vidhya/exploratory-data-analysis-on-airbnb-properties-in-london-39eb80da6d15) <br>
 Github  => [EDA-Airbnb-London](https://github.com/yalinyener/EDA-Airbnb-London)
 <br>
+4-----**Youtube İstatisik Analizi** <br>
+Article =>[Exploratory Data Analysis on Youtube Statistics](https://medium.com/analytics-vidhya/exploratory-data-analysis-on-youtube-statistics-717bb9e5b745) <br>
+Github =>[youtube_statistics](https://github.com/alpercakr/youtube_statistics) <br>
 ### SUPERVISED LEARNING
 ```diff
 A. Predict/Regression Algorithms
