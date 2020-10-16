@@ -74,7 +74,7 @@ Github =>[Wind-Turbines-Capacity-Prediction](https://github.com/alpercakr/Wind-T
 ```diff
 B. Classification Algorithms
 ```
-1----- **Güneş Enerjisi Üretim Tahmini** <br>
+1----- **Gökyüzündeki Objelerin Sınıflandırılması** <br>
 Article =>[Classification of Sky Objects with Machine Learning](https://towardsdatascience.com/classification-of-sky-objects-with-machine-learning-be4b05816690) <br>
 Github =>[Classification-of-Astronomical-Objects](https://github.com/alpercakr/Classification-of-Astronomical-Objects/blob/master/sdss-classification.ipynb) <br>
 
