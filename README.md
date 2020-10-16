@@ -46,12 +46,13 @@ Github  => [Doğrusal Regresyon](https://github.com/yigitsener/machine-learning/
 -----_destek yazılar_-----
 <br>
 Yazı =>[Doğrusal Regresyon Algoritmasının Mantığı ve Uygulanması](https://medium.com/batech/do%C4%9Frusal-regresyon-algoritmas%C4%B1n%C4%B1n-mant%C4%B1%C4%9F%C4%B1-ve-uygulanmas%C4%B1-e65a86f806fd) <br>
+2----- **Güneş Enerjisi Üretim Tahmini** <br>
+Article and Codes =>[ML modellemesi ile güneş enerjisi üretim tahmini oluşturmak](https://baylarov.blogspot.com/2020/03/gunes-enerjisi-uretim-tahmini.html) <br>
 
-2----- **Ethereum Hacim Tahmini** <br>
+3----- **Ethereum Hacim Tahmini** <br>
 Article =>[The Volume of Ethereum (ETH)](https://medium.com/@yagmurbali/the-volume-of-ethereum-eth-af723d98223a) <br>
 Github =>[The_Volume_of_ETH](https://github.com/yagmurbali/The_Volume_of_ETH) <br>
-
-3----- **Araba Fiyat Tahmini** <br>
+4----- **Araba Fiyat Tahmini** <br>
 Yazı =>[Web Scraping — Regresyon Projesi : İkinci El Araç Fiyatı Tahminlemesi](https://medium.com/@mervehoroz14/web-scraping-regresyon-projesi-i%CC%87kinci-el-ara%C3%A7-fiyat%C4%B1-tahminlemesi-2d6706500572) <br>
 Github =>[Web Kazıma](https://github.com/MerveHoroz/BeautifulSoup-WebScraping) <br>
 Github =>[Regresyon](https://github.com/MerveHoroz/RegressionProject-PredictingUsedCarPrice) <br>
@@ -59,7 +60,7 @@ Github =>[Regresyon](https://github.com/MerveHoroz/RegressionProject-PredictingU
 Yazı =>[BeautifulSoup ile Web Scraping ve Machine Learning](https://medium.com/@snnderya/beautifulsoup-ile-web-scraping-ve-machine-learning-6cc98defb2dc) <br>
 Yazı =>[Veri Bilimi Serüveni 3](https://medium.com/@yunusyarba/veri-bilimi-ser%C3%BCveni-3-187fe19c3fcd) <br>
 
-4----- **Rüzgar Türbinleri: Kapasite Tahmini** <br>
+5----- **Rüzgar Türbinleri: Kapasite Tahmini** <br>
 Article =>[Wind Turbines:Prediction of the Capacity](https://medium.com/datadriveninvestor/wind-turbines-predicton-of-the-capacity-97afbd2f1898) <br>
 Github =>[Wind-Turbines-Capacity-Prediction](https://github.com/alpercakr/Wind-Turbines-Capacity-Prediction) <br>
 
