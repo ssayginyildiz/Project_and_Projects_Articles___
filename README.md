@@ -103,6 +103,9 @@ Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyor
 Yazı =>[Github Türkçe Markdown Rehberi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96) <br>
 -----OKUNASI----- <br>
 Yazı =>[Veri Bilimi'nde daha ileri gitmek için...](https://blog.cobanov.xyz/ihtiyaclar-listesi) <br>
+-----Araştırma----- <br>
+Yazı =>[Stackoverflow](https://insights.stackoverflow.com/survey/2020) <br>
+
 
 
 
