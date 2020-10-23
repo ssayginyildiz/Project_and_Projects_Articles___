@@ -100,7 +100,10 @@ Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyor
 
 
 ## 4)DATA ENGINEERING
-Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil-olmalidir/) <br><br>
+Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil-olmalidir/) <br>
+Yazı =>[Data Scientist Olmak](https://zekeriyabesiroglu.com/2017/04/08/data-scientist-nedir-nasil-data-scientist-olunur-data-scientist-olmak-icin-ogrenilmesi-gerekenler/) <br><br>
+
+
 Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
 [2,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-2-39cc97cf8e60)
 [3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-3-438b4e51acd3)
