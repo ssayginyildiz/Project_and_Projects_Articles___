@@ -100,10 +100,15 @@ Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyor
 
 
 ## 4)DATA ENGINEERING
+Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil-olmalidir/) 
+
+
+
+<br>
 Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
 [2,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-2-39cc97cf8e60)
 [3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-3-438b4e51acd3)
-[4](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-4-454b70b1f5fa) <br>
+[4](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-4-454b70b1f5fa) 
 
 
 ## 5)EKSTRA
@@ -115,3 +120,4 @@ Yazı =>[Veri Bilimi'nde daha ileri gitmek için...](https://blog.cobanov.xyz/ih
 Yazı =>[Stackoverflow Bilişim Araştırması](https://insights.stackoverflow.com/survey/2020) <br>
 -----Veri Bilimi ve Yapay Zeka Özelinde Bülten----- <br>
 Bülten =>[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
+
