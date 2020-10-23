@@ -114,4 +114,4 @@ Yazı =>[Veri Bilimi'nde daha ileri gitmek için...](https://blog.cobanov.xyz/ih
 -----Araştırmalar----- <br>
 Yazı =>[Stackoverflow Bilişim Araştırması](https://insights.stackoverflow.com/survey/2020) <br>
 -----Veri Bilimi ve Yapay Zeka Özelinde Bülten----- <br>
-[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
+Bülten =>[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
