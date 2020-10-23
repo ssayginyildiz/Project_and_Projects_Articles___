@@ -98,19 +98,20 @@ Github =>[NLP-Classification-Recommendation with arxiv data](https://github.com/
 ## 3)SQL
 Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyoruz/sql-sorgular%C4%B1n%C4%B1n-pandas-kar%C5%9F%C4%B1l%C4%B1klar%C4%B1-a6b5cf771dbe) <br>
 
-## 4)EKSTRA
+
+## 4)DATA ENGINEERING
+Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
+[2,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-2-39cc97cf8e60)
+[3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-3-438b4e51acd3)
+[4](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-4-454b70b1f5fa) <br>
+
+
+## 5)EKSTRA
 -----GİTHUB----- <br>
 Yazı =>[Github Türkçe Markdown Rehberi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96) <br>
 -----OKUNASI----- <br>
 Yazı =>[Veri Bilimi'nde daha ileri gitmek için...](https://blog.cobanov.xyz/ihtiyaclar-listesi) <br>
 -----Araştırmalar----- <br>
 Yazı =>[Stackoverflow Bilişim Araştırması](https://insights.stackoverflow.com/survey/2020) <br>
-
-
-
-
-## 5)DATA ENGINEERING
-Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
-[2,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-2-39cc97cf8e60)
-[3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-3-438b4e51acd3)
-[4](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-4-454b70b1f5fa) <br>
+-----Veri Bilimi ve Yapay Zeka Özelinde Bülten----- <br>
+[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
