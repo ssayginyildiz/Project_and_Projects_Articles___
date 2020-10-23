@@ -18,7 +18,7 @@ Book =>[     ]( ) <br>
 
 
 ## 1)DATA SCIENCE & MACHINE LEARNING
-
+Yazı =>[Data Scientist Olmak](https://zekeriyabesiroglu.com/2017/04/08/data-scientist-nedir-nasil-data-scientist-olunur-data-scientist-olmak-icin-ogrenilmesi-gerekenler/) <br>
 
 ### EDA
 1-----**Corona 2019 Analizi** <br>
@@ -101,7 +101,7 @@ Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyor
 
 ## 4)DATA ENGINEERING
 Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil-olmalidir/) <br>
-Yazı =>[Data Scientist Olmak](https://zekeriyabesiroglu.com/2017/04/08/data-scientist-nedir-nasil-data-scientist-olunur-data-scientist-olmak-icin-ogrenilmesi-gerekenler/) <br><br>
+<br>
 
 
 Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
