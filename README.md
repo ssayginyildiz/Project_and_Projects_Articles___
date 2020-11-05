@@ -123,6 +123,7 @@ Bülten =>[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
 
 ## 6)Repos
 Tüm karakterleri(nükleotidleri) bitişik şekilde verilen .txt dosyasında en sık tekrar eden nükleotid dizilimini bulan kod(5-20 uzunluğunda)<br> 
-Github =>[OriFinder](https://github.com/canklot/OriFinder) <br> 
+Github =>[Biyoenformatik](https://github.com/canklot/OriFinder) <br> 
+Github =>[İlk Görüşte Öğrenme](https://github.com/cagbal/cagatay_youtube/blob/master/ilk_goruste_ogrenme.ipynb) <br> 
 
 
