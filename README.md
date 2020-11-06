@@ -125,5 +125,6 @@ Bülten =>[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
 Tüm karakterleri(nükleotidleri) bitişik şekilde verilen .txt dosyasında en sık tekrar eden nükleotid dizilimini bulan kod(5-20 uzunluğunda)<br> 
 Github =>[Biyoenformatik](https://github.com/canklot/OriFinder) <br> 
 Github =>[İlk Görüşte Öğrenme](https://github.com/cagbal/cagatay_youtube/blob/master/ilk_goruste_ogrenme.ipynb) <br> 
+Github =>[Python String Similarity](https://github.com/luozhouyang/python-string-similarity#levenshtein) <br> 
 
 
