@@ -17,6 +17,13 @@ Video =>[     ]( ) <br>
 Book =>[     ]( ) <br>
 
 
+### iNCELENESİ REPOLAR
+Github =>[Türkçe Duygu Takibi](https://github.com/akoksal/Turkce-Duygu-Takibi) <br>
+
+
+
+
+
 ## 1)DATA SCIENCE & MACHINE LEARNING
 Yazı =>[Data Scientist Olmak](https://zekeriyabesiroglu.com/2017/04/08/data-scientist-nedir-nasil-data-scientist-olunur-data-scientist-olmak-icin-ogrenilmesi-gerekenler/) <br>
 
