@@ -19,7 +19,7 @@ Book =>[     ]( ) <br>
 
 ### iNCELENESİ REPOLAR
 Github =>[Türkçe Duygu Takibi](https://github.com/akoksal/Turkce-Duygu-Takibi) <br>
-
+Github =>[Pricing-Project](https://github.com/oguzerdo/Pricing-Project/blob/main/Pricing%20Project.ipynb) <br>
 
 
 
