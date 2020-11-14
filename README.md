@@ -28,6 +28,12 @@ Github =>[Türkçe Duygu Takibi](https://github.com/akoksal/Turkce-Duygu-Takibi)
 Yazı =>[Data Scientist Olmak](https://zekeriyabesiroglu.com/2017/04/08/data-scientist-nedir-nasil-data-scientist-olunur-data-scientist-olmak-icin-ogrenilmesi-gerekenler/) <br>
 
 ### EDA
+
+#### Veri Ön İşleme
+Yazı =>[Python ile Veri Ön İşlemeye Dalış](https://medium.com/@denizkilinc/python-ile-veri-%C3%B6n-i%CC%87%C5%9Flemeye-dal%C4%B1%C5%9F-f89f921658bd) <br>
+
+
+
 1-----**Corona 2019 Analizi** <br>
 Article =>[n-Corona Virus 2019 Data Analyse](https://medium.com/@parlak.deniss/n-corona-virus-2019-data-analyse-eda-1a3d470ca5f8) <br>
 Github  => [Corono Analyse](https://github.com/denizparlak1/datascience-project/tree/master/project-1)
