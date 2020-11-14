@@ -131,8 +131,8 @@ Bülten =>[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
 ## 6)Repos
 Tüm karakterleri(nükleotidleri) bitişik şekilde verilen .txt dosyasında en sık tekrar eden nükleotid dizilimini bulan kod(5-20 uzunluğunda)<br> 
 Github =>[Text de en sık tekrar eden örüntü(biyoenformatik)](https://github.com/canklot/OriFinder) <br> 
-Github =>[İlk Görüşte Öğrenme](https://github.com/cagbal/cagatay_youtube/blob/master/ilk_goruste_ogrenme.ipynb) <br> 
+Github =>[İlk Görüşte Öğrenme-Zero Shot Learning](https://github.com/cagbal/cagatay_youtube/blob/master/ilk_goruste_ogrenme.ipynb) <br> 
 Github =>[Python String Similarity](https://github.com/luozhouyang/python-string-similarity#levenshtein) <br> 
-Github =>[Pricing-Project](https://github.com/oguzerdo/Pricing-Project/blob/main/Pricing%20Project.ipynb) <br>
+Github =>[Game-Pricing-Project](https://github.com/oguzerdo/Pricing-Project/blob/main/Pricing%20Project.ipynb) <br>
 
 
