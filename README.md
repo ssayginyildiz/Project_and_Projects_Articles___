@@ -141,4 +141,6 @@ Github =>[İlk Görüşte Öğrenme-Zero Shot Learning](https://github.com/cagba
 Github =>[Python String Similarity](https://github.com/luozhouyang/python-string-similarity#levenshtein) <br> 
 Github =>[Game-Pricing-Project](https://github.com/oguzerdo/Pricing-Project/blob/main/Pricing%20Project.ipynb) <br>
 
+#### Mülakat
+Article =>[99 Questions Every Entry-Level Analyst Should Be Able To Answer](https://career-accelerator.corsairs.network/99-questions-every-entry-level-analyst-should-be-able-to-answer-68cb45f9c91a) <br>
 
