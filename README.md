@@ -113,8 +113,9 @@ Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyor
 Yazı =>[Python ile Veritabanı İşlemleri](https://medium.com/deep-learning-turkiye/python-ile-veritaban%C4%B1-i%CC%87%C5%9Flemleri-119fd364372d) <br>
 
 ## 4)DATA ENGINEERING
-Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil olmalidir/) <br>
-<br>
+Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil-olmalidir/) <br>
+
+
 
 
 Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
