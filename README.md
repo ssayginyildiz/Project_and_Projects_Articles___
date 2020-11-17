@@ -110,10 +110,10 @@ Article =>[Classification & Recommendation with arxiv data](https://towardsdatas
 Github =>[NLP-Classification-Recommendation with arxiv data](https://github.com/alpercakr/NLP-Classification-Recommendation-Project) <br>
 ## 3)SQL
 Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/kodluyoruz/sql-sorgular%C4%B1n%C4%B1n-pandas-kar%C5%9F%C4%B1l%C4%B1klar%C4%B1-a6b5cf771dbe) <br>
-
+Yazı =>[SQL Sorgularının Pandas Karşılıkları](https://medium.com/deep-learning-turkiye/python-ile-veritaban%C4%B1-i%CC%87%C5%9Flemleri-119fd364372d) <br>
 
 ## 4)DATA ENGINEERING
-Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil-olmalidir/) <br>
+Yazı =>[Python ile Veritabanı İşlemleri](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil olmalidir/) <br>
 <br>
 
 
