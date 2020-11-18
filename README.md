@@ -145,3 +145,7 @@ Github =>[Game-Pricing-Project](https://github.com/oguzerdo/Pricing-Project/blob
 #### Mülakat
 Article =>[99 Questions Every Entry-Level Analyst Should Be Able To Answer](https://career-accelerator.corsairs.network/99-questions-every-entry-level-analyst-should-be-able-to-answer-68cb45f9c91a) <br>
 
+
+#### Derin Öğrenme
+Yazı =>[Yapay Sinir Ağlarını Görselleştirmek](https://medium.com/deep-learning-turkiye/sinir-a%C4%9Flar%C4%B1n%C4%B1-g%C3%B6rselle%C5%9Ftirmek-42176bfd7c11) <br>
+
