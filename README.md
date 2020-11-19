@@ -116,14 +116,12 @@ Yazı =>[Python ile Veritabanı İşlemleri](https://medium.com/deep-learning-tu
 Yazı =>[Data Engineer Olmak](https://zekeriyabesiroglu.com/2019/07/30/data-engineer-kimdir-nasil-data-engineer-olunur-bir-data-engineer-kariyer-plani-nasil-olmalidir/) <br>
 
 
-
-
-Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
+Yazı Serisi =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-1-8ac7acd11821) 
 [2,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-2-39cc97cf8e60)
 [3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-3-438b4e51acd3)
 [4](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-4-454b70b1f5fa) 
 
-Yazı =>[Veri Ambarı Eğitimi](https://www.datasciencearth.com/veri-ambari-egitimi-bolum-1-veri-ambari-nedir/) 
+Yazı Serisi =>[Veri Ambarı Eğitimi](https://www.datasciencearth.com/veri-ambari-egitimi-bolum-1-veri-ambari-nedir/) 
 
 
 ## 5)EKSTRA
