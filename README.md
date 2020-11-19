@@ -123,6 +123,8 @@ Yazı =>[Data Engineer Serüveni 1,](https://medium.com/@yunusyarba/data-enginee
 [3,](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-3-438b4e51acd3)
 [4](https://medium.com/@yunusyarba/data-engineer-ser%C3%BCveni-4-454b70b1f5fa) 
 
+Yazı =>[Veri Ambarı Eğitimi](https://www.datasciencearth.com/veri-ambari-egitimi-bolum-1-veri-ambari-nedir/) 
+
 
 ## 5)EKSTRA
 -----GİTHUB----- <br>
