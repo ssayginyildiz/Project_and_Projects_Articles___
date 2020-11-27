@@ -17,7 +17,7 @@ Video =>[     ]( ) <br>
 Book =>[     ]( ) <br>
 
 
-### WOW REPOS
+### REPOS
 Github =>[Türkçe Duygu Takibi](https://github.com/akoksal/Turkce-Duygu-Takibi) <br>
 
 
