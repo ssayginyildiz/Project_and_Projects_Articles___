@@ -134,6 +134,8 @@ Yazı =>[Stackoverflow Bilişim Araştırması](https://insights.stackoverflow.c
 -----Veri Bilimi ve Yapay Zeka Özelinde Bülten----- <br>
 Bülten =>[DataVision](https://www.datasciencearth.com/?s=datavision) <br>
 
+#### Başka Alanlarda Veri Bilimi
+Yazı =>[Saliselerin Önemi | Formula 1 ile Data Science Arasındaki İlişki](https://medium.com/@emincanoguz11/saliselerin-%C3%B6nemi-formula-1-ile-data-science-aras%C4%B1ndaki-i%CC%87li%C5%9Fki-use-case-1-bfa18aff2e8e) <br>
 
 ## 6)Repos
 Tüm karakterleri(nükleotidleri) bitişik şekilde verilen .txt dosyasında en sık tekrar eden nükleotid dizilimini bulan kod(5-20 uzunluğunda)<br> 
